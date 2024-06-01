@@ -9,7 +9,6 @@ from dash import html
 from dash import dcc
 from dash.dependencies import Input, Output, State
 import pandas as pd 
-import subprocess
 import joblib
 
 # Carregando modelos finais treinados
